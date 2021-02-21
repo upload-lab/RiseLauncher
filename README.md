@@ -1,0 +1,2 @@
+# RiseLauncher
+Craftrise Launcher
