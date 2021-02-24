@@ -1,3 +1,3 @@
 # RiseLauncher
 
-Craftrise Launcher
+RiseLauncher Loader
